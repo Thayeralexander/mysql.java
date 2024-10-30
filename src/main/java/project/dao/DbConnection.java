@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 import project.exception.DbException;
 
-public class JDBCConnection {
+public class DbConnection {
   private static final String SCHEMA = "project";
   private static final String USER = "project";
   private static final String PASSWORD = "project";

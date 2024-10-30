@@ -2,7 +2,7 @@
  * 
  */
 package project.exception;
-
+@SuppressWarnings("serial")
 /**
  * 
  */
