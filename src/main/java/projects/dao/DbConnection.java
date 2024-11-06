@@ -1,9 +1,9 @@
-package project.dao;
+package projects.dao;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
-import project.exception.DbException;
+import projects.exception.DbException;
 
 public class DbConnection {
   private static final String SCHEMA = "project";
